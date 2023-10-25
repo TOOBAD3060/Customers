@@ -1,0 +1,5 @@
+In summary, changes in the constraints have varying impacts on the objective function. Increasing labor hours or material availability leads to decreased profit, while changing market demand does not affect profit.
+
+
+
+
