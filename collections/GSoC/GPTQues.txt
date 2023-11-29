@@ -1,0 +1,18 @@
+Could you please study this link
+https://github.com/ant-design/ant-design-charts/tree/master/packages/graphs
+
+And feed me back on how they have canvas layouts, node and edges position algorithm
+
+
+
+
+
+
+Just go over the library I mention above and study and write the review on how they have implemented canvas layouts, node and edges position algorithms, and ways of projecting the node and edges to the canvas, that's what i mean by rendering,
+
+
+
+
+
+
+
