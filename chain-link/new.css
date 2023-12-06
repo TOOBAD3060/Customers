@@ -1,0 +1,54 @@
+main.upper_part {
+    background-color: white;
+}
+.drag {
+    position: relative;
+    top: -2em;
+    display: flex;
+    justify-content: center;
+}   
+div.teemaster {
+    /* margin: 0 auto; */
+    position: relative;
+    left: -0.5em;
+    width: 350px;
+    height: 200px;
+    padding: 20px 30px;
+    background-color: #0A1172;
+    border-radius: 5px;
+} 
+div.teemaster p{
+        color: white;
+        font-weight: lighter;
+}
+div.teemaster p.teebold, div.teemaster p.teebold span {
+    font-weight: bold;
+    font-size: 19px;
+    color: white;
+}
+.migrate{
+    margin-top: -10em;
+}
+
+div.tee{
+    margin-top: -8em;
+}
+
+.inner_tee {
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    background: white;
+}
+
+.inner_tee .image img{
+    /* background-blend-mode: color; */
+    /* backface-visibility: visible; */
+    background: white;
+    width: 350px;
+    /* filter: brightness(1.1); */
+}
+
+footer .new{
+    padding: 0 1em;
+}
